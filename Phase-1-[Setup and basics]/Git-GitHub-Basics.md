@@ -49,7 +49,7 @@ You can choose either depending on your preference — both are excellent in the
 
 - PDF: [`Git_Commands_Reference.pdf](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/git_github_command_sheet.pdf) <br>*some basics command you must know and understand*
 - Image notes:  
-  ![Git Flow Diagram](./Phase-1-[Setup%20and%20basics]/Assets/git-workflow-visual.png)
+  ![Git Flow Diagram](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/git-workflow-visual.png)
    
   
 
