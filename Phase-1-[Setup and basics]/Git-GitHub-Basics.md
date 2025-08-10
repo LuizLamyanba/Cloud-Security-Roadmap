@@ -47,7 +47,7 @@ Specifically, Kunal Kushwaha’s video provides a deep understanding and covers 
 Apna College’s video is also beginner-friendly, explaining topics with diagrams and simple definitions in Hindi.  
 You can choose either depending on your preference — both are excellent in their own way.*
 
-- PDF: [`Git_Commands_Reference.pdf`](Cloud-Security-Roadmap\Cloud-Security-Roadmap\Phase-1-[Setup and basics]\Assets\git_github_command_sheet.pdf)*some basics command you must know and understand*
+- PDF: [`Git_Commands_Reference.pdf](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/git_github_command_sheet.pdf)*some basics command you must know and understand*
 - Image notes:  
   ![Git Flow Diagram](Cloud-Security-Roadmap\Cloud-Security-Roadmap\Phase-1-[Setup and basics]\Assets\git-workflow-visual.png)  
   ![Branching Example](assets/branching-example.png)
