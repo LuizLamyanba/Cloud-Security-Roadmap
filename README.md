@@ -6,7 +6,7 @@ A structured 12-month roadmap documenting my journey to becoming a **Cloud Secur
 
 ## 📌 Structure of the Roadmap
 
-**Phase 1** – Git, GitHub, and Version Control Basics → [Go to Phase 1 Folder](./phase%201)  
+**Phase 1** – Git, GitHub, and Version Control Basics → [Go to Phase 1 Folder(https://github.com/LuizLamyanba/Cloud-Security-Roadmap/tree/main/Phase-1-%5BSetup%20and%20basics%5D)  
 _Phase 2 onwards will be added as I progress._
 
 ---
