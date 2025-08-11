@@ -39,8 +39,11 @@ I learned how to track changes, collaborate on projects, and maintain clean proj
 - [GitHub Docs](https://docs.github.com/en) – Official documentation  
 - **YouTube video guides:**  
   **YouTube video guides:**  
-- ["Complete Git and GitHub Tutorial" by Kunal Kushwaha](https://youtu.be/apGV9Kg7ics?si=uIZPH7DBTX30HV9G)  
-- ["Complete Git and GitHub Tutorial for Beginners" by Apna College](https://youtu.be/Ez8F0nW6S-w?si=FRJEVyn6s7IDw4NC)  
+- ["Complete Git and GitHub Tutorial" by Kunal Kushwaha](https://youtu.be/apGV9Kg7ics?si=uIZPH7DBTX30HV9G)
+  [sceenshots](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/Screenshot%202025-08-07%20152440.png)
+  
+- ["Complete Git and GitHub Tutorial for Beginners" by Apna College](https://youtu.be/Ez8F0nW6S-w?si=FRJEVyn6s7IDw4NC)
+  [screenshots]()
 
 *I chose these videos because they are very beginner-friendly. As an Indian learner, these two videos helped me a lot.  
 Specifically, Kunal Kushwaha’s video provides a deep understanding and covers a wide range of topics in just one hour, making it valuable for global learners since it’s in English.  
