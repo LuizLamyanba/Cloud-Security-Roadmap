@@ -81,14 +81,6 @@ You can choose either depending on your preference — both are excellent in the
 
 ---
 
-## 📸 My Notes & Screenshots
-*(All images are in the `assets/` folder of this repo)*  
-1. Git workflow visual  
-2. Branch switching example  
-3. GitHub push/pull illustration  
-
----
-
 ## ✅ Summary
 During this stage, I learnt how to use GitHub efficiently and established the framework for version control using Git.  
 Collaboration, maintaining project organisation, and participating in open-source or team projects all require this knowledge.
