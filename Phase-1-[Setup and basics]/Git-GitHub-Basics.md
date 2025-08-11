@@ -38,16 +38,17 @@ I learned how to track changes, collaborate on projects, and maintain clean proj
 
 - [GitHub Docs](https://docs.github.com/en) – Official documentation  
 - **YouTube video guides:**  
-  **YouTube video guides:**  
 - ["Complete Git and GitHub Tutorial" by Kunal Kushwaha](https://youtu.be/apGV9Kg7ics?si=uIZPH7DBTX30HV9G)
-  [sceenshots](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/Screenshot%202025-08-07%20152440.png)
-  
-- ["Complete Git and GitHub Tutorial for Beginners" by Apna College](https://youtu.be/Ez8F0nW6S-w?si=FRJEVyn6s7IDw4NC)
-  [screenshots]()
-
+  **Screenshot:**  
+![Kunal Kushwaha Git Tutorial Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/Screenshot%202025-08-07%20152440.png)
 *I chose these videos because they are very beginner-friendly. As an Indian learner, these two videos helped me a lot.  
-Specifically, Kunal Kushwaha’s video provides a deep understanding and covers a wide range of topics in just one hour, making it valuable for global learners since it’s in English.  
-Apna College’s video is also beginner-friendly, explaining topics with diagrams and simple definitions in Hindi.  
+Specifically, Kunal Kushwaha’s video provides a deep understanding and covers a wide range of topics in just one hour, making it valuable for global learners since it’s in English.*
+
+- ["Complete Git and GitHub Tutorial for Beginners" by Apna College](https://youtu.be/Ez8F0nW6S-w?si=FRJEVyn6s7IDw4NC)
+ **Screenshot:**  
+![Apna College Git Tutorial Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/Screenshot%202025-08-10%20110818.png)
+
+ *Apna College’s video is also beginner-friendly, explaining topics with diagrams and simple definitions in Hindi.  
 You can choose either depending on your preference — both are excellent in their own way.*
 
 - PDF: [`Git_Commands_Reference.pdf](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/git_github_command_sheet.pdf) <br>*some basics command you must know and understand*
