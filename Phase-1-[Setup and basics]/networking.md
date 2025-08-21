@@ -10,82 +10,101 @@ Networking is the backbone of all cloud systems, and security relies heavily on 
 ### 1. Networking Fundamentals  
 - **OSI Model (7 layers)** – crucial for mapping security tools like firewalls (Layer 3/4), TLS encryption (Layer 6), and WAFs (Layer 7).  
 - **TCP/IP Model (4 layers)** – simplified model widely used in real-world networking and the cloud.  
-- **Client-Server vs Peer-to-Peer** – understanding how cloud services use client-server, and how P2P introduces unique risks.  
-- **IP Addressing & Subnetting** – foundation of cloud **VPC (Virtual Private Cloud)** design.  
-- **MAC Addresses & ARP** – and their security risks (ARP spoofing attacks).  
+- **Client-Server vs Peer-to-Peer** – helps understand how cloud services communicate and why centralized client-server models dominate cloud.  
+- **IP Addressing & Subnetting** – essential for designing secure **VPCs (Virtual Private Clouds)** in AWS/Azure.  
+- **MAC Addresses & ARP** – learned their importance and how attacks like **ARP spoofing** can compromise networks.  
 
 ### 2. Security-Relevant Protocols  
-- **TCP** – reliable, connection-oriented, ensures ordered delivery. Secure services (HTTPS, SSH) rely on it.  
-- **UDP** – faster but unreliable, often exploited in **DDoS attacks** (e.g., amplification).  
-- **HTTP/HTTPS** – stateless web protocol. HTTPS adds TLS encryption → critical for cloud web security.  
-- **DNS** – enables hostname-to-IP mapping. Vulnerable to **DNS spoofing, poisoning, hijacking**.  
-- **DHCP** – automates IP assignment, but attackers may run rogue DHCP servers.  
-- **ICMP** – used in ping/traceroute, but also reconnaissance and flooding attacks.  
+- **TCP** – reliable, ordered delivery. Basis for secure protocols (HTTPS, SSH).  
+- **UDP** – faster but unreliable, exploited in **DDoS amplification attacks**.  
+- **HTTP/HTTPS** – stateless web protocol, with HTTPS securing traffic via TLS encryption.  
+- **DNS** – critical but vulnerable to **spoofing and poisoning**.  
+- **DHCP** – simplifies IP assignment, but rogue DHCP servers can cause attacks.  
+- **ICMP** – useful for troubleshooting but often abused for reconnaissance.  
 
 ### 3. Ports & Services  
-- **Well-known ports** (0–1023) are frequent attack targets. Examples:  
-  - `80` – HTTP  
-  - `443` – HTTPS (encrypted)  
-  - `25` – SMTP (email)  
-  - `53` – DNS  
-- In cloud, **restricting ports via firewalls/security groups** is a key defense mechanism.  
+- **Well-known ports** (0–1023) are the most attacked. Key examples:  
+  - `80` → HTTP  
+  - `443` → HTTPS (encrypted)  
+  - `25` → SMTP (email)  
+  - `53` → DNS  
+- In the cloud, these are **controlled with firewalls and security groups**.  
 
 ### 4. Practical Commands for Security Engineers  
-- `ping`, `traceroute` – check connectivity & detect routing issues.  
-- `ipconfig` / `ifconfig` – network configs during **incident response**.  
-- `netstat` – monitor open/suspicious connections.  
-- `nslookup` / `dig` – detect DNS misconfigurations or spoofing.  
-- `curl` / `wget` – inspect HTTP responses, test TLS, APIs.  
+- `ping`, `traceroute` → connectivity & routing checks.  
+- `ipconfig` / `ifconfig` → verify network configs in **incident response**.  
+- `netstat` → check for suspicious open ports/connections.  
+- `nslookup` / `dig` → detect DNS misconfigurations/spoofing.  
+- `curl` / `wget` → test APIs, TLS configs, and HTTP responses.  
 
 ### 5. Tools & Security Use Cases  
-- **Wireshark** – packet analysis, intrusion detection, malware traffic analysis.  
-- **Nmap** – port scanning, vulnerability detection.  
-- **SSH vs Telnet** – secure vs insecure remote login.  
-- **Firewalls & Security Groups** – applying least privilege at the network layer.  
+- **Wireshark** – deep packet inspection to detect anomalies, malware traffic, or intrusions.  
+- **Nmap** – scans systems for open ports/services, revealing potential attack surfaces.  
+- **SSH vs Telnet** – shows the difference between secure (encrypted SSH) and insecure (plain text Telnet) remote logins.  
+- **Firewalls & Security Groups** – enforce **least privilege** at the network layer in both on-prem and cloud.  
 
 ---
 
 ## 📂 Resources & References  
 
-- [Chat gpt](https://chatgpt.com/)
+- [ChatGPT](https://chatgpt.com/) – helped me with explanations, Q&A, and creating detailed notes.  
 - [Cisco Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)  
   *This was a very useful free source to build a clear understanding of networking basics.  
   The course is structured for beginners and explains networking concepts step by step with real-world examples.  
-  It helped me strengthen my fundamentals before moving toward cloud networking and security topics.*  
+  It helped me strengthen my fundamentals before moving toward **cloud networking and security topics**.*  
 
+---
 
-### 📺 YouTube Video Guides  
+## 📺 YouTube Video Guides  
 
 #### 1️⃣ [Kunal Kushwaha – Networking Full Course](https://youtu.be/IPvYjXCsTg8?si=KHfpcPtkmaSyjoY6)  
 ![Kunal Kushwaha Networking Course Screenshot](Phase-1-[Setup and basics]/Assets_networking/kunal_ss.png)  
 
-*This 4-hour video by Kunal Kushwaha was the **perfect starting point** for me.  
-I completed it over two days and it helped me clearly understand how data is transferred across networks and how models like OSI & TCP/IP actually work.  
-Instead of just memorizing theory, I gained **conceptual clarity** and a practical perspective on networking fundamentals.  
-I highly recommend this course to beginners, whether pursuing a **tech or non-tech career**, as networking basics are universally valuable.*  
+*This 4-hour video was my **perfect starting point**.  
+I completed it over two days and gained clear insight into how data moves across networks, with a strong explanation of OSI & TCP/IP models.  
+Instead of memorizing, I developed **conceptual clarity**.  
+Highly recommended for beginners pursuing careers in **cloud, security, or even non-tech fields** (since networking knowledge is universal).*  
 
 ---
 
 #### 2️⃣ [OSI and TCP/IP Models – Best Explanation (Drunk Engineer)](https://youtu.be/3b_TAYtzuho?si=8clKAxpnxQGwsAQW)  
 ![Drunk Engineer TCP/IP Model Screenshot](Phase-1-[Setup and basics]/Assets_networking/drunkar_ss.png)  
 
-*I stumbled on this 20-minute video by chance, but it turned out to be one of the **best explanations** I’ve found.  
-The **TCP/IP model** is one of the most fundamental topics in networking, and this video explained it in such a simple, visual way that it cleared up many of my doubts instantly.  
-It’s short, concise, and highly effective — a great companion to longer, more detailed tutorials.*  
- 
----
-
-### 📄 NOTES  
-- ![Network Handwritten notes](X:\CLOUD ROADMAP\phase 1\git and git hub\git demo\Phase-1-[Setup and basics]\Assets_networking\NETWORKING HANDWRITTEN NOTES.pdf)  
-*handwritten notes by me which i made during my study of networking using the resources hope it will be useful for u*. 
-- ![Network short notes](X:\CLOUD ROADMAP\phase 1\git and git hub\git demo\Phase-1-[Setup and basics]\Assets_networking\NETWORKING HANDWRITTEN NOTES.pdf)
-*summary of short notes i made and merged during my net surfing and study in internet*
-- ![Networking chat gpt full notes](X:\CLOUD ROADMAP\phase 1\git and git hub\git demo\Phase-1-[Setup and basics]\Assets_networking\networking chat gpt full notes.docx)
+*This short 20-minute video gave me one of the **clearest explanations** of the TCP/IP model.  
+It’s concise, visual, and perfect for quickly understanding this critical concept.  
+A great companion to longer tutorials and ideal for quick revisions.*  
 
 ---
 
-### 🖼 Image Notes  
-![OSI model vs TC/IP model](X:\CLOUD ROADMAP\phase 1\git and git hub\git demo\Phase-1-[Setup and basics]\Assets_networking\OSI VS TCPIP.png)  
+## 📄 Notes  
+
+#### 📝 Handwritten Notes  
+![Network Handwritten Notes](Phase-1-[Setup and basics]/Assets_networking/NETWORKING_HANDWRITTEN_NOTES.pdf)  
+*My personal handwritten notes with diagrams and summaries.  
+Useful for quick revision and reinforcing fundamentals.*  
+
+---
+
+#### 📑 Short Notes  
+![Network Short Notes](Phase-1-[Setup and basics]/Assets_networking/NETWORKING_SHORT_NOTES.pdf)  
+*Concise summary notes compiled from multiple internet resources.  
+They serve as a **cheat sheet** for exam prep and quick lookups.*  
+
+---
+
+#### 📘 ChatGPT Study Notes  
+![Networking ChatGPT Full Notes](Phase-1-[Setup and basics]/Assets_networking/NETWORKING_CHATGPT_NOTES.docx)  
+*Detailed notes from my ChatGPT study sessions.  
+Covers fundamentals, practical commands, and cloud security mappings in depth.*  
+
+---
+
+## 🖼 Image Notes  
+
+#### 🔗 OSI Model vs TCP/IP Model  
+![OSI vs TCP/IP Model](Phase-1-[Setup and basics]/Assets_networking/OSI_VS_TCPIP.png)  
+*A comparative diagram that shows how the OSI and TCP/IP models align.  
+This helped me map **security tools and vulnerabilities** to the correct layers.*  
 
 ---
 
@@ -102,15 +121,15 @@ It’s short, concise, and highly effective — a great companion to longer, mor
 ---
 
 ## 💡 Tips & Tricks I Learned  
-- Map all troubleshooting to the **OSI model**.  
-- Default open ports (22, 80, 443) = highest attack surface.  
-- DNS is one of the most **exploited services** → always monitor.  
-- Use **private subnets** + security groups in cloud deployments.  
-- Always check traffic logs (VPC Flow Logs, CloudTrail, Wireshark).  
+- Always map issues to the **OSI model** for troubleshooting.  
+- Default open ports (22, 80, 443) = common attack surface.  
+- DNS is one of the **most targeted services** → monitor & secure with DNSSEC.  
+- Use **private subnets** + security groups for least-privilege cloud design.  
+- Monitor traffic continuously with tools like **VPC Flow Logs, CloudTrail, Wireshark**.  
 
 ---
 
 ## ✅ Summary  
 Networking is the **first step to mastering cloud security**.  
-By learning networking protocols, commands, and tools, I built the **foundation to secure cloud environments** — from **VPCs to firewalls to encrypted communications**.  
-This knowledge will be critical as I move forward into cloud security, DevSecOps, and advanced threat defense.  
+By learning protocols, commands, and tools, I built the **foundation to secure cloud environments** — from **VPCs to firewalls to encrypted communications**.  
+This knowledge is critical as I progress into **cloud security, DevSecOps, and advanced threat defense**.  
