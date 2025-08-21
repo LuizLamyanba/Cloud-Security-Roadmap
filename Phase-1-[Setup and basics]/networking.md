@@ -58,7 +58,7 @@ Networking is the backbone of all cloud systems, and security relies heavily on 
 ## 📺 YouTube Video Guides  
 
 #### 1️⃣ [Kunal Kushwaha – Networking Full Course](https://youtu.be/IPvYjXCsTg8?si=KHfpcPtkmaSyjoY6)  
-![Kunal Kushwaha Networking Course Screenshot](Phase-1-[Setup and basics]/Assets_networking/kunal_ss.png)  
+![Kunal Kushwaha Networking Course Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/kunal_ss.png)  
 
 *This 4-hour video was my **perfect starting point**.  
 I completed it over two days and gained clear insight into how data moves across networks, with a strong explanation of OSI & TCP/IP models.  
@@ -68,7 +68,7 @@ Highly recommended for beginners pursuing careers in **cloud, security, or even 
 ---
 
 #### 2️⃣ [OSI and TCP/IP Models – Best Explanation (Drunk Engineer)](https://youtu.be/3b_TAYtzuho?si=8clKAxpnxQGwsAQW)  
-![Drunk Engineer TCP/IP Model Screenshot](Phase-1-[Setup and basics]/Assets_networking/drunkar_ss.png)  
+![Drunk Engineer TCP/IP Model Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/drunkar_ss.png)  
 
 *This short 20-minute video gave me one of the **clearest explanations** of the TCP/IP model.  
 It’s concise, visual, and perfect for quickly understanding this critical concept.  
@@ -79,21 +79,21 @@ A great companion to longer tutorials and ideal for quick revisions.*
 ## 📄 Notes  
 
 #### 📝 Handwritten Notes  
-![Network Handwritten Notes](Phase-1-[Setup and basics]/Assets_networking/NETWORKING_HANDWRITTEN_NOTES.pdf)  
+![Network Handwritten Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/NETWORKING%20HANDWRITTEN%20NOTES.pdf)  
 *My personal handwritten notes with diagrams and summaries.  
 Useful for quick revision and reinforcing fundamentals.*  
 
 ---
 
 #### 📑 Short Notes  
-![Network Short Notes](Phase-1-[Setup and basics]/Assets_networking/NETWORKING_SHORT_NOTES.pdf)  
+![Network Short Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/Computer_Networking_Notes.docx)  
 *Concise summary notes compiled from multiple internet resources.  
 They serve as a **cheat sheet** for exam prep and quick lookups.*  
 
 ---
 
 #### 📘 ChatGPT Study Notes  
-![Networking ChatGPT Full Notes](Phase-1-[Setup and basics]/Assets_networking/NETWORKING_CHATGPT_NOTES.docx)  
+![Networking ChatGPT Full Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/networking%20chat%20gpt%20full%20notes.docx)  
 *Detailed notes from my ChatGPT study sessions.  
 Covers fundamentals, practical commands, and cloud security mappings in depth.*  
 
@@ -102,7 +102,7 @@ Covers fundamentals, practical commands, and cloud security mappings in depth.*
 ## 🖼 Image Notes  
 
 #### 🔗 OSI Model vs TCP/IP Model  
-![OSI vs TCP/IP Model](Phase-1-[Setup and basics]/Assets_networking/OSI_VS_TCPIP.png)  
+![OSI vs TCP/IP Model](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/OSI%20VS%20TCPIP.png)  
 *A comparative diagram that shows how the OSI and TCP/IP models align.  
 This helped me map **security tools and vulnerabilities** to the correct layers.*  
 
