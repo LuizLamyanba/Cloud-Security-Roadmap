@@ -62,7 +62,7 @@ You can choose either depending on your preference — both are excellent in the
 ---
 
 ### 📄 PDF Reference  
-[`Git_Commands_Reference.pdf`](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/git_github_command_sheet.pdf)  
+[`Git_Commands_Reference.pdf`](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_git_github/git_github_command_sheet.pdf)  
 *Some basic commands you must know and understand.*
 
 ---
