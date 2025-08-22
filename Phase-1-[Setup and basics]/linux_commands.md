@@ -48,7 +48,7 @@ Most cloud servers and DevOps environments run on **Linux-based systems**, so ma
 ## 📂 Resources & References  
 
 - [Linux Journey](https://linuxjourney.com/)  
-  ![Linux Journey Snippet]()  
+  ![Linux Journey Snippet](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_linux_commands/overthe%20jouney.png)  
   *One of the best free resources to start learning Linux. The site is structured into stages (Grasshopper, Journeyman, etc.) which gradually increase depth.  
   I often revisit this site when I have doubts — the theory is simple, clear, and practical. Highly recommended for anyone starting out.*  
 
@@ -64,7 +64,7 @@ Most cloud servers and DevOps environments run on **Linux-based systems**, so ma
 ## 📺 YouTube Video Guides  
 
 #### 1️⃣ [Introduction to Linux & Terminal Commands – Kunal Kushwaha](https://youtu.be/iwolPf6kN-k?si=eXgN-zaC9k4DpTr5)  
-![Kunal Kushwaha Linux Screenshot]()  
+![Kunal Kushwaha Linux Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_linux_commands/kunal%20kushwaha%20ss.png)  
 
 *This video by Kunal Kushwaha simplified the core Linux commands and their practical use cases.  
 The clarity in his teaching style helped me understand **how commands actually work under the hood**, not just memorize them.  
@@ -72,29 +72,20 @@ A highly recommended introduction for both beginners and international learners.
 
 ---
 
-#### 2️⃣ [Linux for Ethical Hackers – NetworkChuck](https://youtu.be/8PrOp9t0PyQ)  
-![NetworkChuck Linux Screenshot](Phase-1-[Linux Commands]/Assets/networkchuck_linux.png)  
-
-*This video connects Linux with cybersecurity and ethical hacking.  
-It gave me a **security-first perspective** — showing how attackers and defenders use Linux in real-world scenarios.  
-Very relevant to my **Cloud Security roadmap**.*  
-
----
-
 ## 📄 Notes  
 
 #### 📝 Personal Notes  
-![Linux Handwritten Notes]()  
+![Linux Handwritten Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_linux_commands/LINUX%20NOTES.pdf)  
 *My handwritten notes created while studying Linux fundamentals via Linux Journey and YouTube tutorials.  
 These notes are my quick reference guide whenever I forget a command.  
 My advice: **make your own notes** — writing them helps build long-term memory.*  
 
 ---
 
-## 🖼 Linux Cheat Sheet  
+##  Linux Cheat Sheet  
 
 #### 📊 Linux Command Overview  
-![Linux Cheat Sheet PDF]()  
+![Linux Cheat Sheet PDF](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_linux_commands/Linux_Commands_CheatSheet.pdf)  
 *A summarized cheat sheet of all Linux commands I practiced, compiled during my ChatGPT study sessions.  
 This makes revision quick and structured.*  
 
