@@ -45,7 +45,7 @@ I learned how to track changes, collaborate on projects, and maintain clean proj
 
 #### 1️⃣ ["Complete Git and GitHub Tutorial" by Kunal Kushwaha](https://youtu.be/apGV9Kg7ics?si=uIZPH7DBTX30HV9G)
 **Screenshot:**  
-![Kunal Kushwaha Git Tutorial Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/Screenshot%202025-08-07%20152440.png)  
+![Kunal Kushwaha Git Tutorial Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_git_github/Screenshot%202025-08-07%20152440.png)  
 
 *I chose these videos because they are very beginner-friendly. As an Indian learner, these two videos helped me a lot.  
 Specifically, Kunal Kushwaha’s video provides a deep understanding and covers a wide range of topics in just one hour, making it valuable for global learners since it’s in English.*
@@ -54,7 +54,7 @@ Specifically, Kunal Kushwaha’s video provides a deep understanding and covers 
 
 #### 2️⃣ ["Complete Git and GitHub Tutorial for Beginners" by Apna College](https://youtu.be/Ez8F0nW6S-w?si=FRJEVyn6s7IDw4NC)
 **Screenshot:**  
-![Apna College Git Tutorial Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/Screenshot%202025-08-10%20110818.png)  
+![Apna College Git Tutorial Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_git_github/Screenshot%202025-08-10%20110818.png)  
 
 *Apna College’s video is also beginner-friendly, explaining topics with diagrams and simple definitions in Hindi.  
 You can choose either depending on your preference — both are excellent in their own way.*
@@ -68,7 +68,7 @@ You can choose either depending on your preference — both are excellent in the
 ---
 
 ### 🖼 Image Notes  
-![Git Flow Diagram](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets/git-workflow-visual.png)
+![Git Flow Diagram](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_git_github/git-workflow-visual.png)
 
 ---
 
