@@ -2,7 +2,7 @@ import sys
 import json
 import requests
 
-API_id = '48f3bbc1a39fedb62be42093645a309f'
+API_id = 'abcdefghijklikmsdsd' #add your API key you ll get thorough openweather
 if len(sys.argv) < 2 :
     print("Usage:  current_weather_data_fetch.py , location ")
     sys.exit()
