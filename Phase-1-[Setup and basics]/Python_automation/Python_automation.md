@@ -77,15 +77,14 @@ Here are all the Python automation projects I built while learning:
 
 | Project | Code Link |
 |--------|-----------|
-| Collatz Sequence | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/collatz.py) |
-| Coin Flip Streak Simulation | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/coin_flip_streak.py) |
-| Current Weather Data Fetch | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/current_weather_data.py) |
-| Multi Clipboard Program | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/multi_clip_autom.py) |
-| Quiz File Generator | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/quiz_file_generator.py) |
-| Remove CSV Header Script | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/remove_csv_header.py) |
-| Tic Tac Toe Game | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/tic_tac_toe.py) |
+| Collatz Sequence | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/collatz.py) |
+| Coin Flip Streak Simulation | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/coin_flip_streak.py) |
+| Current Weather Data Fetch | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/current_weather_data_fetch.py) |
+| Multi Clipboard Program | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/multi_clip_autom.py) |
+| Quiz File Generator | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/quiz_file_generator.py) |
+| Remove CSV Header Script | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/remove_csv_header.py) |
+| Tic Tac Toe Game | [View Code](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects/tic_tac_toe.py) |
 
-> 🔄 Replace **YOUR_USERNAME** with your actual GitHub username.
 
 
 ---
@@ -99,16 +98,18 @@ Here are all the Python automation projects I built while learning:
 ## 📺 YouTube Playlist I Used
 
 ### 🎥 Complete Python Playlist  
-https://www.youtube.com/playlist?list=PLiEts138s9P0aG6soKBoMsmJrwIOPXoXR  
+![How to automate the boring stuff](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Assets_python/how%20to%20automate%20boring%20stuff%20ss.png)
+[How to automate the boring stuff with Python playlist](https://www.youtube.com/playlist?list=PLiEts138s9P0aG6soKBoMsmJrwIOPXoXR)
 
 This playlist helped me reinforce every concept from the book with hands-on examples.  
-Very useful for revision and practical learning.
+Very useful for revision and practical learning , specially for beginners
 
 ---
 
 ## 📘 Book Reference
 
-**Automate the Boring Stuff with Python – Al Sweigart**  
+[**Automate the Boring Stuff with Python – Al Sweigart**](https://automatetheboringstuff.com/) 
+
 The main resource for all the mini-projects in this phase.
 
 ---
@@ -118,10 +119,10 @@ The main resource for all the mini-projects in this phase.
  
 
 ### 📑 Short Notes  
-(Quick revision notes – can be added later.)  
+[Python quick revision and cheatsheet](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Assets_python/Python_Phase1_CheatSheet.pdf) 
 
 ### 🖼 flow of my python roadmap
-(Any screenshots or flowcharts can be added here.)
+![Python phase - 1 flow diagram](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Assets_python/python%20flow%20roadmap.png)
 
 ---
 
