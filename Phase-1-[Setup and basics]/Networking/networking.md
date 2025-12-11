@@ -56,7 +56,7 @@ Networking is the backbone of all cloud systems, and security relies heavily on 
 ## 📺 YouTube Video Guides
 
 ### 1️⃣ **Kunal Kushwaha – Networking Full Course**  
-![Kunal Kushwaha Networking Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)  
+[Kunal Kushwaha Networking Course](https://www.youtube.com/watch?v=IPvYjXCsTg8)  
 ![Kunal Kushwaha Networking Course Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/Screenshot%202025-08-15%20202335.png)
 
 *A very solid start for networking basics, OSI/TCP-IP, routing & packet flow.*
@@ -64,7 +64,7 @@ Networking is the backbone of all cloud systems, and security relies heavily on 
 ---
 
 ### 2️⃣ **OSI & TCP/IP Models – Drunk Engineer**  
-![Drunk Engineer TCP/IP Model](https://www.youtube.com/watch?v=3b_TAYtzuho&t=689s)  
+[Drunk Engineer TCP/IP Model](https://www.youtube.com/watch?v=3b_TAYtzuho&t=689s)  
 ![Drunk Engineer TCP/IP Model Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/tcp%20vs%20drunkard%20ss.png)
 
 *One of the clearest visual explanations of the networking models.*
