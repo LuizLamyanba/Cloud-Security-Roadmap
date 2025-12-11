@@ -56,16 +56,16 @@ Networking is the backbone of all cloud systems, and security relies heavily on 
 ## 📺 YouTube Video Guides
 
 ### 1️⃣ **Kunal Kushwaha – Networking Full Course**  
-https://youtu.be/IPvYjXCsTg8?si=KHfpcPtkmaSyjoY6  
-![Kunal Kushwaha Networking Course Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/kunal_ss.png)
+![Kunal Kushwaha Networking Course](https://youtu.be/IPvYjXCsTg8?si=KHfpcPtkmaSyjoY6)  
+![Kunal Kushwaha Networking Course Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/Screenshot%202025-08-15%20202335.png)
 
 *A very solid start for networking basics, OSI/TCP-IP, routing & packet flow.*
 
 ---
 
 ### 2️⃣ **OSI & TCP/IP Models – Drunk Engineer**  
-https://youtu.be/3b_TAYtzuho?si=8clKAxpnxQGwsAQW  
-![Drunk Engineer TCP/IP Model Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/drunkar_ss.png)
+![Drunk Engineer TCP/IP Model](https://youtu.be/3b_TAYtzuho?si=8clKAxpnxQGwsAQW)  
+![Drunk Engineer TCP/IP Model Screenshot](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/tcp%20vs%20drunkard%20ss.png)
 
 *One of the clearest visual explanations of the networking models.*
 
@@ -74,10 +74,10 @@ https://youtu.be/3b_TAYtzuho?si=8clKAxpnxQGwsAQW
 ## 📄 Notes
 
 ### 📝 Handwritten Notes  
-![Network Handwritten Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/NETWORKING%20HANDWRITTEN%20NOTES.pdf)
+![Network Handwritten Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/handwritten_notes_networking.pdf)
 
 ### 📑 Short Notes  
-![Network Short Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/Computer_Networking_Notes.docx)
+![Network Short Notes](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/Computer_Networking_Notes_Part1.pdf)
 
 
 
@@ -86,7 +86,9 @@ https://youtu.be/3b_TAYtzuho?si=8clKAxpnxQGwsAQW
 ## 🖼 Image Notes
 
 ### 🔗 OSI Model vs TCP/IP Model  
-![OSI vs TCP/IP Model](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Assets_networking/OSI%20VS%20TCPIP.png)
+
+![OSI model](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/OSI.png)
+![OSI vs TCP/IP Model](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Networking/Assets_networking/osi%20vs%20tcp%20comparison.png)
 
 *A visual mapping useful for troubleshooting & understanding attack layers.*
 
