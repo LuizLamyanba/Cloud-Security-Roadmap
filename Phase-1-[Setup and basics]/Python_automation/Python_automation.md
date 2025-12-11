@@ -89,12 +89,6 @@ Here are all the Python automation projects I built while learning:
 
 ---
 
-## 📂 Folder Structure
-
-
-
----
-
 ## 📺 YouTube Playlist I Used
 
 ### 🎥 Complete Python Playlist  
@@ -116,6 +110,10 @@ The main resource for all the mini-projects in this phase.
 
 ## 📄 Notes
 
+### 📑 Handwritten Notes
+[Python handwritten notes part 1](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Assets_python/Python%20notes%20part%201.pdf)
+
+[Python handwritten notes part 2 CONTINUATION](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/blob/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Assets_python/Python%20notes%20part%202.pdf)
  
 
 ### 📑 Short Notes  
