@@ -45,28 +45,48 @@ This phase covers Python fundamentals through mini-projects based on
 
 ## 🧪 Mini Projects I Built
 
-### 1️⃣ Collatz Sequence
-A script that repeatedly applies the Collatz rule until the value reaches 1.  
-Concepts: loops, input validation, recursion/iteration.
+### 1️⃣ Current Weather Data Fetch (API Integration)
+Fetches real-time weather details (temperature, humidity, conditions) using a public API.  
+**Concepts:** APIs, JSON parsing, error handling, automation for cloud/security workflows.
 
-### 2️⃣ Coin Flip Streak Simulation
-Simulates thousands of coin flips to calculate streak probabilities.  
-Concepts: randomness, simulation logic.
+### 2️⃣ Quiz File Generator
+Automatically generates randomized quiz papers and answer keys.  
+**Concepts:** dictionaries, file writing, loops, randomization — very useful for automation logic.
 
-### 3️⃣ Remove CSV Header Script
-Automatically removes headers from all CSV files in a folder.  
-Concepts: CSV parsing, OS module, automation.
+### 3️⃣ Multi Clipboard Program
+A tool that stores and retrieves text snippets using command-line shortcuts.  
+**Concepts:** shelve module, persistent storage, simple utility scripting.
 
-### 4️⃣ Quiz File Generator
-Generates multiple-choice quiz and answer key files.  
-Concepts: dictionaries, file writing, randomization.
+### 4️⃣ Remove CSV Header Script
+Automatically removes the header row from every CSV file in a folder.  
+**Concepts:** CSV parsing, OS automation, batch file operations.
 
-### 5️⃣ Multi Clipboard Program
-A utility to save and load text snippets from the command line.  
-Concepts: shelve module, data persistence.
+### 5️⃣ Coin Flip Streak Simulation
+Simulates long sequences of coin flips to analyze streak probability.  
+**Concepts:** randomness, loops, basic simulation.
 
-### 6️⃣ Practice & Demo Scripts
-General programs for strengthening Python fundamentals.
+### 6️⃣ Collatz Sequence
+Applies the Collatz rule repeatedly until the value reaches 1.  
+**Concepts:** loops, input validation, math logic.
+
+---
+
+## 🐍 Python Mini Projects (Phase 1)
+
+Here are all the Python automation projects I built while learning:
+
+| Project | Code Link |
+|--------|-----------|
+| Collatz Sequence | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/collatz.py) |
+| Coin Flip Streak Simulation | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/coin_flip_streak.py) |
+| Current Weather Data Fetch | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/current_weather_data.py) |
+| Multi Clipboard Program | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/multi_clip_autom.py) |
+| Quiz File Generator | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/quiz_file_generator.py) |
+| Remove CSV Header Script | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/remove_csv_header.py) |
+| Tic Tac Toe Game | [View Code](https://github.com/YOUR_USERNAME/Cloud-Security-Roadmap/tree/main/Phase-1/Python/Python_Projects/tic_tac_toe.py) |
+
+> 🔄 Replace **YOUR_USERNAME** with your actual GitHub username.
+
 
 ---
 
@@ -95,13 +115,12 @@ The main resource for all the mini-projects in this phase.
 
 ## 📄 Notes
 
-### 📝 ChatGPT Notes  
-(Detailed notes exported from ChatGPT sessions.)  
+ 
 
 ### 📑 Short Notes  
 (Quick revision notes – can be added later.)  
 
-### 🖼 Image Notes  
+### 🖼 flow of my python roadmap
 (Any screenshots or flowcharts can be added here.)
 
 ---
