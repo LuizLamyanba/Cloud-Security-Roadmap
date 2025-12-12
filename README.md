@@ -15,7 +15,8 @@ _Phase 2 onwards will be added as I progress._
 - **Git** – Version control for managing source code.  
 - **GitHub** – Remote repository hosting and collaboration.  
 - **Linux** – Basic commands and system navigation.  
-- **Networking Basics** – Understanding IP, DNS, HTTP/HTTPS, and basic protocols.  
+- **Networking Basics** – Understanding IP, DNS, HTTP/HTTPS, and basic protocols.
+- **Python** – Automation scripting, file handling, API integration, JSON/CSV processing, and foundational cloud-security automation tools
 
 ---
 
