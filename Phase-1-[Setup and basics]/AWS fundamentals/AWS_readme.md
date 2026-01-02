@@ -1,4 +1,4 @@
-This part of phase  documents my **cloud computing learning journey**, starting from **AWS fundamentals** and gradually moving towards **Cloud Security, DevOps, and automation**.
+This part of **phase 1**  documents my **cloud computing learning journey**, starting from **AWS fundamentals** and gradually moving towards **Cloud Security, DevOps, and automation**.
 
 The goal of this repo is to:
 - Track what I learn (concepts + hands-on)
@@ -105,6 +105,7 @@ As my cloud journey continues, I will:
 
 ## 🤝 Connect With Me
 
-- 📝 Blog: *Learning & documenting cloud concepts*
+- 📝 Blog: [Hashnode](https://hashnode.com/@luizmakescloud)
 - 💻 GitHub: *This repository*
-- 🎥 YouTube (planned): *Cloud & automation content*
+- 🎥 YouTube: [Luiz_Lamyanba](https://www.youtube.com/@LuizLamyanba)
+- linkedin: [Luiz Lamyanba](https://www.linkedin.com/in/angom-luiz-lamyanba-a13a55306/)
