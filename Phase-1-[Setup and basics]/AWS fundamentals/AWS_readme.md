@@ -26,6 +26,13 @@ I am currently focusing on understanding **core AWS services**, how they work, a
 - Uploading/downloading files using:
   - AWS Console
   - AWS CLI
+  
+#### Amazon Elastic Block Store (EBS)
+- What block storage is and how it differs from object storage
+- EBS volume types (basics)
+- Attaching and detaching EBS volumes to EC2
+- Understanding data persistence beyond EC2 lifecycle
+- Common EC2 + EBS use cases
 
 ####  Amazon EC2 (Elastic Compute Cloud)
 - What EC2 is and why it is used
@@ -34,6 +41,8 @@ I am currently focusing on understanding **core AWS services**, how they work, a
 - Launching EC2 via AWS Console
 - Understanding basic Linux interaction on EC2
 - Instance start/stop concepts
+
+
 
 ####  AWS CloudFormation (Infrastructure as Code)
 - What Infrastructure as Code (IaC) means
@@ -45,6 +54,18 @@ I am currently focusing on understanding **core AWS services**, how they work, a
 - Validating templates using AWS CLI
 - Creating stacks from templates
 
+
+##### EC2 Scalability & High Availability
+- Elastic Load Balancing (ELB)
+  - Why load balancers are required
+  - Target groups and health checks
+  - DNS-based traffic distribution
+- Auto Scaling Groups (ASG)
+  - Desired, minimum, and maximum capacity
+  - Launch templates
+  - Automatic instance replacement
+  - ASG integration with Load Balancer
+  
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -83,6 +104,8 @@ I have successfully covered:
 - S3  
 - EC2  
 - CloudFormation (basics)
+- lambda
+- IAM
 
 More services, projects, and deeper security-focused concepts will be added next.
 
