@@ -6,7 +6,7 @@ A structured 12-month roadmap documenting my journey to becoming a **Cloud Secur
 
 ## 📌 Structure of the Roadmap
 
-**Phase 1** – Git, GitHub, and Version Control Basics → [Go to Phase 1 Folder](./Phase-1-[Setup%20and%20basics])  
+**Phase 1** – Git, GitHub, and Version Control Basics , Networking, Python(boto3) | CLI, AWS fundamentals , → [Go to Phase 1 Folder](./Phase-1-[Setup%20and%20basics])  
 _Phase 2 onwards will be added as I progress._
 
 ---
@@ -17,6 +17,7 @@ _Phase 2 onwards will be added as I progress._
 - **Linux** – Basic commands and system navigation.  
 - **Networking Basics** – Understanding IP, DNS, HTTP/HTTPS, and basic protocols.
 - **Python** – Automation scripting, file handling, API integration, JSON/CSV processing, and foundational cloud-security automation tools
+- **AWS** - EC2 (ELB and ASG), S3, Cloudformation, API Gateway, IAM 
 
 ---
 
