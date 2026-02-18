@@ -65,13 +65,49 @@ I am currently focusing on understanding **core AWS services**, how they work, a
   - Launch templates
   - Automatic instance replacement
   - ASG integration with Load Balancer
+
+### Networking & Communication
+
+  #### Amazon VPC
+  
+  - Subnets (public vs private)  
+  - Internet Gateway basics  
+  - Route tables  
+  - Security groups vs NACLs (intro)  
+  
+  #### Amazon SNS
+  
+  - Pub/Sub messaging model  
+  - Topics and subscriptions  
+  - Email notifications & event-driven architecture basics  
+  
+  #### Amazon API Gateway
+  
+  - Creating REST APIs  
+  - Integration with Lambda  
+  - API endpoints & stages  
+  - Use in serverless architectures
+
+### Identity & Serverless
+  
+  #### IAM (Basics)
+  
+  - Users, roles, and policies  
+  - Principle of least privilege (intro)  
+  
+  #### AWS Lambda
+  
+  - Serverless compute concept  
+  - Trigger-based execution  
+  - Basic integrations with API Gateway & SNS  
+
   
 ---
 
 ## 🛠️ Tools & Technologies Used
 
 - **Cloud:** AWS  
-  - EC2, S3, IAM (basic), CloudFormation  
+  - AWS (EC2, S3, IAM, Lambda, API Gateway, SNS, VPC, CloudFormation)  
 - **Programming & Scripting:**  
   - Python (basics, automation concepts)  
   - Bash (basic CLI usage)  
@@ -95,35 +131,39 @@ I am currently focusing on understanding **core AWS services**, how they work, a
 
 ---
 
-## 🚧 Journey Status
-
-**Current Status:**  
-✅ AWS Fundamentals – *In Progress*
-
-I have successfully covered:
-- S3  
-- EC2  
-- CloudFormation (basics)
-- lambda
-- IAM
-
-More services, projects, and deeper security-focused concepts will be added next.
+Next focus:  
+Logging, monitoring, security controls, and automation.
 
 ---
 
-## 🔄 Continuous Updates
+## Learning Resources
 
-This repository is a **living document**.
+  ### Official Documentation
+  
+  - AWS Documentation [primary reference](https://docs.aws.amazon.com/)
+  
+  ### YouTube Channels
+  <img width="1372" height="971" alt="Screenshot 2026-02-18 152938" src="https://github.com/user-attachments/assets/82ed61b6-de55-43ec-9f0a-78c5da80bf39" />
 
-As my cloud journey continues, I will:
-- Add new AWS services
-- Improve existing notes
-- Add automation scripts
-- Include mini-projects
-- Expand into Cloud Security concepts
+  - freeCodeCamp.org - [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!](https://www.youtube.com/watch?v=NhDYbskXRgc) 
+  - Digital Cloud Training – whenever i wanted to understand or focus on any specific concepts or topics i refered to this channel.
 
-> 📌 *This README will be updated regularly as my learning journey progresses.*
+  
+  (This section will be updated as I discover useful resources.)
+  
+  ---
 
+## Continuous Updates
+
+This repository is a living document.
+
+As my cloud journey progresses, I will:
+
+- Add new AWS services  
+- Improve existing notes  
+- Add automation scripts  
+- Include mini-projects  
+- Expand into Cloud Security concepts 
 ---
 
 ## 🤝 Connect With Me
