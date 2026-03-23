@@ -17,7 +17,7 @@ _Phase 2 onwards will be added as I progress._
 - **Linux** – Basic commands and system navigation.  
 - **Networking Basics** – Understanding IP, DNS, HTTP/HTTPS, and basic protocols.
 - **Python** – Automation scripting, file handling, API integration, JSON/CSV processing, and foundational cloud-security automation tools
-- **AWS** - EC2 (ELB and ASG), S3, Cloudformation, API Gateway, IAM 
+- **AWS** - EC2 (ELB and ASG), S3, Cloudformation, API Gateway, IAM, VPC, Lambda 
 
 ---
 
